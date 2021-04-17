@@ -1,6 +1,6 @@
 ## 欢迎来到我的个人主页！
 
-我叫陈晓虎，目前正在首都师范大学数学科学学院攻读硕士学位，方向为代数与表示理论。You can use the [editor on GitHub](https://github.com/704143761/chenxiaohu/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+大家好，我叫陈晓虎，目前正在首都师范大学数学科学学院攻读硕士学位，方向为代数与表示理论。You can use the [editor on GitHub](https://github.com/704143761/chenxiaohu/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
