@@ -1,10 +1,9 @@
 ## 欢迎来到我的个人主页！
 
-   大家好，我叫陈晓虎，目前正在首都师范大学数学科学学院攻读硕士学位，方向为代数与表示理论。You can use the [editor on GitHub](https://github.com/704143761/chenxiaohu/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+   大家好，我叫陈晓虎，目前正在首都师范大学数学科学学院攻读硕士学位，方向为代数与表示理论。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 教育背景
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -28,10 +27,14 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 参与会议、报告与讨论班
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/704143761/chenxiaohu/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### 讲义与笔记
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+### 发表论文
+
+目前还没有
