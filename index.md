@@ -5,6 +5,10 @@
 
 ### 教育背景
 
+
+2017-2021 东北大学秦皇岛分校 学士
+2021-至今  首都师范大学 硕士
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
