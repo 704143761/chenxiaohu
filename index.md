@@ -40,7 +40,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### 讲义与笔记
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. [文件试验](https://github.com/704143761/wendang/raw/main/The%20map%20of%20my%20life%20by%20Goro%20Shimura%20(auth.)%20(z-lib.pdf
+)。[试验2](ddd)
 
 ### 发表论文与预印本
 
