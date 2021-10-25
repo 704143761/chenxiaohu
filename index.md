@@ -30,7 +30,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see  [GitHulalala](d).
+For more details see  [GitHulalala](https://github.com/704143761/wendang/raw/main/1.pdf).
 
 ### 参与会议、报告与讨论班
 
