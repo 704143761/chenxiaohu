@@ -30,7 +30,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see  [GitHulalala](https://github.com/704143761/wendang/raw/main/The%20map%20of%20my%20life%20by%20Goro%20Shimura%20(auth.)%20(z-lib.pdf).
+For more details see  [GitHulalala](d).
 
 ### 参与会议、报告与讨论班
 
